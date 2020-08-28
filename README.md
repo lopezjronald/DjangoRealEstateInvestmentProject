@@ -1,1 +1,1 @@
-"# DjangoRealEstateInvestmentProject" 
+# Django Real Estate Investment Project 
